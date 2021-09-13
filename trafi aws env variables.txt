@@ -1,0 +1,6 @@
+Environment variables:
+AWS_PROFILE		User name
+AWS_REGION		us-west-2
+aws_access_key_id	key-id
+aws_secret_access_key	secret-access-key
+

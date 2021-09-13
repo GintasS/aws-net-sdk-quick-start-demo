@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "S3CreateAndList": {
+      "commandName": "Project",
+      "commandLineArgs": "\"gintautas-bucket-works-best-at-home\"",
+    }
+  }
+}
